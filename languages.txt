@@ -1,0 +1,6 @@
+
+What is your favorite programming language and why?
+Zack's favorite programming language is python because it is not verbose.
+
+Is your favorite language the one you are also most experienced with?
+No, Zack is most experienced with school, but he does prefers python.
